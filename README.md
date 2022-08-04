@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dvmerkulov
-- 👀 I’m interested in blockchain/web3
-- 🌱 I’m currently learning blockchain/web3
-- 💞️ I’m looking to collaborate on blockchain/web3
+- 👀 I’m interested in smart-contracts/web3
+- 🌱 I’m currently learning smart-contracts/web3
+- 💞️ I’m looking to collaborate on smart-contracts/web3
 - 📫 How to reach me +79251100049
 
 <!---
